@@ -1,1 +1,2 @@
 "# NYC_fireincidents" 
+Web url: https://data.cityofnewyork.us/Public-Safety/Incidents-Responded-to-by-Fire-Companies/tm6d-hbzd National Fire Incident Reporting System (NFIRS) contains information like the kind of incident responded to, where it occurred, the resources used to mitigate it. Goal is to understand the nature and causes of fire, as well as civilian fire casualties and firefighter injuries, and has been expanded to collect basic information on all incidents to which fire units respond.
